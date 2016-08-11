@@ -24,6 +24,6 @@ Add the following directive to your CSS manifest file (application.css):
 
 ## Versioning
 
-fullcalendar-rails 2.7.1 == FullCalendar 2.7.1
+fullcalendar-rails 2.9.1 == FullCalendar 2.9.1
 
 Every attempt is made to mirror the currently shipping FullCalendar library version number wherever possible. The major, minor, and patch version numbers will always represent the FullCalendar library version. Should a gem bug be discovered, a 4th version identifier will be added and incremented.
