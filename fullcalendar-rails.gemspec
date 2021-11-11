@@ -17,9 +17,9 @@ Gem::Specification.new do |spec|
   spec.test_files = Dir["test/**/*"]
   spec.require_paths = ["lib"]
 
-  spec.add_development_dependency "bundler", ">= 2.2.10"
-  spec.add_development_dependency "rake", ">= 12.3.3"
-  spec.add_development_dependency "rails", ">= 4.0"
+  spec.add_development_dependency "bundler", "~> 2.2"
+  spec.add_development_dependency "rake", "~> 12.3"
+  spec.add_development_dependency "rails", "~> 4.0"
   spec.add_development_dependency "test-unit", "~> 3.1"
 
   spec.add_dependency "railties", ">= 4.0"
